@@ -1,0 +1,8 @@
+Write a C# program as a console application that allows a user to input any no of positive integers between 1 and 100. 
+When the user enters any number outside the given range, the program displays the following: 
+a) No of even numbers entered. 
+b) Sum of even numbers entered. 
+c) Average of even numbers entered (Average must be a real number formatted to display 2 decimal places). 
+d) Highest and lowest even numbers entered. 
+
+Note: All odd numbers entered are ignored by the program. 

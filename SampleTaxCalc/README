@@ -1,0 +1,5 @@
+Write a program in C# that prompts the user to input gross pay and determines how much tax someone should pay according to the following rules: 
+
+People pay no tax if they earn up to €10,000. They pay tax at the rate of 20% on the amount they earn over €10,000 but up to €50,000. They pay tax at 40% on any money they earn over €50,000. 
+
+The program then displays the amount of tax deducted and the net pay. 

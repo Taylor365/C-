@@ -1,0 +1,9 @@
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\bin\Debug\Testing.dll
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\bin\Debug\Testing.pdb
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\bin\Debug\DBSLibrary.exe
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\bin\Debug\DBSLibrary.pdb
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\obj\Debug\Testing.dll
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\Testing\obj\Debug\Testing.pdb

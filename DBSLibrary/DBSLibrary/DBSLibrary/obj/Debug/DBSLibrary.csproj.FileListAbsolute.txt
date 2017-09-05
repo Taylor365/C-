@@ -1,0 +1,6 @@
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\DBSLibrary\bin\Debug\DBSLibrary.exe.config
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\DBSLibrary\bin\Debug\DBSLibrary.exe
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\DBSLibrary\bin\Debug\DBSLibrary.pdb
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\DBSLibrary\obj\Debug\DBSLibrary.csprojResolveAssemblyReference.cache
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\DBSLibrary\obj\Debug\DBSLibrary.exe
+P:\SoftwareDev\OOP\Assignment\DBSLibrary\DBSLibrary\DBSLibrary\obj\Debug\DBSLibrary.pdb

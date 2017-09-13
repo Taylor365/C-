@@ -1,0 +1,6 @@
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

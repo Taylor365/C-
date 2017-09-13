@@ -1,0 +1,9 @@
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\bin\Debug\LargestNumberSelectorTests.dll
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\bin\Debug\LargestNumberSelectorTests.pdb
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\bin\Debug\BigNumberFinder.dll
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\bin\Debug\BigNumberFinder.pdb
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\obj\Debug\LargestNumberSelectorTests.csprojResolveAssemblyReference.cache
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\obj\Debug\LargestNumberSelectorTests.dll
+C:\AdvProg\LargestNumberSelector\LargestNumberSelectorTests\obj\Debug\LargestNumberSelectorTests.pdb

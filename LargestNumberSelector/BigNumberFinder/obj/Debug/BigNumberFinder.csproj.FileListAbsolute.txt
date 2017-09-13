@@ -1,0 +1,5 @@
+C:\AdvProg\LargestNumberSelector\BigNumberFinder\bin\Debug\BigNumberFinder.dll
+C:\AdvProg\LargestNumberSelector\BigNumberFinder\bin\Debug\BigNumberFinder.pdb
+C:\AdvProg\LargestNumberSelector\BigNumberFinder\obj\Debug\BigNumberFinder.csprojResolveAssemblyReference.cache
+C:\AdvProg\LargestNumberSelector\BigNumberFinder\obj\Debug\BigNumberFinder.dll
+C:\AdvProg\LargestNumberSelector\BigNumberFinder\obj\Debug\BigNumberFinder.pdb

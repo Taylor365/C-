@@ -1,0 +1,12 @@
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\Ex2\bin\Debug\Ex2.exe.config
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\Ex2\bin\Debug\Ex2.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\Ex2\bin\Debug\Ex2.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\Ex2\obj\Debug\Ex2.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\Ex2\obj\Debug\Ex2.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+C:\AdvProg\ParameterisedDel\Ex2\bin\Debug\Ex2.exe.config
+C:\AdvProg\ParameterisedDel\Ex2\obj\Debug\Ex2.exe
+C:\AdvProg\ParameterisedDel\Ex2\obj\Debug\Ex2.pdb
+C:\AdvProg\ParameterisedDel\Ex2\bin\Debug\Ex2.exe
+C:\AdvProg\ParameterisedDel\Ex2\bin\Debug\Ex2.pdb
+C:\AdvProg\ParameterisedDel\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache

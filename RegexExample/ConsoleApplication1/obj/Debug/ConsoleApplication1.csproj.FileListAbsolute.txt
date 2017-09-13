@@ -1,0 +1,15 @@
+c:\users\10364204\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\10364204\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\10364204\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\10364204\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\10364204\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\10364204\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\10364204\OneDrive - Dublin Business School (DBS)\RegexExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\10364204\OneDrive - Dublin Business School (DBS)\RegexExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\10364204\OneDrive - Dublin Business School (DBS)\RegexExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+P:\SoftwareDev\Advanced\RegexExample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

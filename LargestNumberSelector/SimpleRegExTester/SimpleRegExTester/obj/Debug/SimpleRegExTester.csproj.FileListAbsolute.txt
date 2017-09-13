@@ -1,0 +1,12 @@
+C:\AdvProg\SimpleRegExTester\SimpleRegExTester\bin\Debug\SimpleRegExTester.exe.config
+C:\AdvProg\SimpleRegExTester\SimpleRegExTester\bin\Debug\SimpleRegExTester.exe
+C:\AdvProg\SimpleRegExTester\SimpleRegExTester\bin\Debug\SimpleRegExTester.pdb
+C:\AdvProg\SimpleRegExTester\SimpleRegExTester\obj\Debug\SimpleRegExTester.csprojResolveAssemblyReference.cache
+C:\AdvProg\SimpleRegExTester\SimpleRegExTester\obj\Debug\SimpleRegExTester.exe
+C:\AdvProg\SimpleRegExTester\SimpleRegExTester\obj\Debug\SimpleRegExTester.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\Wk2_Regexp\SimpleRegExTester\SimpleRegExTester\bin\Debug\SimpleRegExTester.exe.config
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\Wk2_Regexp\SimpleRegExTester\SimpleRegExTester\obj\Debug\SimpleRegExTester.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\Wk2_Regexp\SimpleRegExTester\SimpleRegExTester\obj\Debug\SimpleRegExTester.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\Wk2_Regexp\SimpleRegExTester\SimpleRegExTester\bin\Debug\SimpleRegExTester.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\Wk2_Regexp\SimpleRegExTester\SimpleRegExTester\bin\Debug\SimpleRegExTester.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\Wk2_Regexp\SimpleRegExTester\SimpleRegExTester\obj\Debug\SimpleRegExTester.csprojResolveAssemblyReference.cache

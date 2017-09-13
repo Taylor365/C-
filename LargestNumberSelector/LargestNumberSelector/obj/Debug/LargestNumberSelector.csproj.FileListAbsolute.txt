@@ -1,0 +1,8 @@
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\bin\Debug\LargestNumberSelector.exe.config
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\bin\Debug\LargestNumberSelector.exe
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\bin\Debug\LargestNumberSelector.pdb
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\obj\Debug\LargestNumberSelector.csprojResolveAssemblyReference.cache
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\obj\Debug\LargestNumberSelector.Properties.Resources.resources
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\obj\Debug\LargestNumberSelector.csproj.GenerateResource.Cache
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\obj\Debug\LargestNumberSelector.exe
+C:\AdvProg\LargestNumberSelector\LargestNumberSelector\obj\Debug\LargestNumberSelector.pdb

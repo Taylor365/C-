@@ -1,0 +1,15 @@
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\DownloadThemAll_July2016\Wk3Sess1_AnonMethodsLambda\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.exe.config
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\DownloadThemAll_July2016\Wk3Sess1_AnonMethodsLambda\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\DownloadThemAll_July2016\Wk3Sess1_AnonMethodsLambda\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\DownloadThemAll_July2016\Wk3Sess1_AnonMethodsLambda\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.csprojResolveAssemblyReference.cache
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\DownloadThemAll_July2016\Wk3Sess1_AnonMethodsLambda\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvancedProgramming\DownloadThemAll_July2016\Wk3Sess1_AnonMethodsLambda\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.exe.config
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.exe
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.pdb
+D:\Old HP laptop\Download\Personal\DBS\Modules\B8IT119 AdvProg\DEmAllJuly2016\Wk3Sess1AnonMethodsLambda\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.csprojResolveAssemblyReference.cache
+C:\AdvProg\ParameterisedDel\ParameterisedDel\bin\Debug\ParameterisedDel.exe.config
+C:\AdvProg\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.exe
+C:\AdvProg\ParameterisedDel\ParameterisedDel\obj\Debug\ParameterisedDel.pdb

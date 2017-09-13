@@ -1,0 +1,36 @@
+  Aintree, Jimmy, (2017, 05, 12), 11.58m, true
+Punchestown, Frank,  (2016, 12, 22), 122.52m, true
+  Sandown, Sandra,  (2016, 11, 17), 20.00m, false
+  Ayr, Jimmy1,  (2016, 11, 03), 25.00m, false
+Fairyhouse, Jimmy2,  (2016, 12, 02), 65.75m, true
+  Ayr, Jimmy3,  (2017,03, 11), 12.05m, true
+  Doncaster, Jimmy4,  (2017, 12, 02), 10.00m, false
+  Towcester, Jimmy5,  (2016, 03, 12), 50.00m, false
+  Goodwood, Jimmy6,  (2017, 10, 07), 525.74m, true
+  Kelso, Jimmy7,  (2016, 09, 13), 43.21m, true
+Punchestown, Jimmy10,  (2017, 07, 05), 35.00m, false
+  Ascot, Jimmy11,  (2016, 02, 04), 23.65m, true
+  Kelso, Jimmy12,  (2017, 08, 02), 30.00m, false
+  Towcester, Jimmy14,  (2017, 05, 01), 104.33m, true
+  Ascot, Sheergar,  (2017, 06, 21), 25.00m, false
+  Bangor, Redrum,  (2016, 12, 22), 30.00m, false
+  Ayr, Istabrack,  (2017, 05, 22), 11.50m, true
+  Ascot, Christmasbrack,  (2017, 06, 23), 30.00m, false
+  Ascot, IveAnIdea,  (2017, 06, 23), 374.27m, true
+  Goodwood, Sheergar2,  (2016, 10, 05), 34.12m, true
+  Dundalk, Sheergar3,  (2016, 11, 09),20.00m, false
+  Haydock, Sheergar4,  (2016, 11, 12), 87.00m, true
+  Perth, Sheergar5,  (2017, 01,20), 15.00m, false
+  York, Sheergar6,  (2017, 11, 11), 101.25m, true
+Punchestown, Sheergar,  (2016, 12, 22), 11.50m, true
+  Chester, Jimmy,  (2016, 08, 14), 10.00m, false
+  Kelso, Jimmy,  (2016, 09, 18), 10.00m, false
+Kilbeggan, Jimmy,  (2017, 03, 03),20.00m, false
+Fairyhouse, Jimmy,  (2017, 03, 11), 55.50m, true
+Punchestown, Jimmy,  (2016, 11, 15), 10.00m, false
+  Towcester, Jimmy,  (2016, 05, 08), 16.55m, true
+Punchestown, Jimmy,  (2016, 05, 23), 13.71m, true
+  Cork, Jimmy,  (2016, 11, 30),20.00m, false
+Punchestown, Jimmy,  (2016, 04, 25), 13.45m, true
+  Bangor, Jimmy,  (2016, 01, 23), 10.00m, false
+  Sandown, Jimmy,  (2017, 08, 07), 25.00m, false

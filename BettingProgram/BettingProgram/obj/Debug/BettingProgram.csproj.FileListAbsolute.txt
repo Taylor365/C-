@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\BettingProgram\BettingProgram\bin\Debug\BettingProgram.exe.config
+c:\users\user\documents\visual studio 2017\Projects\BettingProgram\BettingProgram\bin\Debug\BettingProgram.exe
+c:\users\user\documents\visual studio 2017\Projects\BettingProgram\BettingProgram\bin\Debug\BettingProgram.pdb
+c:\users\user\documents\visual studio 2017\Projects\BettingProgram\BettingProgram\obj\Debug\BettingProgram.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\BettingProgram\BettingProgram\obj\Debug\BettingProgram.exe
+c:\users\user\documents\visual studio 2017\Projects\BettingProgram\BettingProgram\obj\Debug\BettingProgram.pdb

@@ -13,25 +13,15 @@ namespace BettingProgram
     {
         static readonly string FILE_PATH = @"C:\Users\User\Documents\Visual Studio 2017\Projects\BettingProgram\Bets.txt";
         public readonly string FILE_PATH2 = @"C:\Users\User\Documents\Visual Studio 2017\Projects\BettingProgram\Bets.bin";
-        static string pattern = @"(\s+[a-zA-Z]+|[A-Za-z]+),\s+?[a-zA-Z\d]+,(\s+)?\((19|20)\d{2},(\s+)?(\d|([01]\d)),(\s+)?(\d|[0123]\d)\),(\s+)?\d+(\.)?(\d{2})?m,(\s+)?([Tt]rue|[Ff]alse)";
+        //static string ver1 = @"[A-Za-z]+,[a-zA-Z]+,\(\d+,\d+,\d+\),\d+(\.)\d+m,(true|false)";
+        //static string ver2 = @"[A-Za-z]+,\s[a-zA-Z]+,\s\(\d+,\s\d+,\s\d+\),\s\d+(\.)\d+m,\s(True|False)";
+        //static string ver3 = @"(\s+[a-zA-Z]+|[A-Za-z]+),(\s+[a-zA-Z\d]+|[a-zA-Z\d]+),\s+\(\d{4},\s+\d{2},\s+\d{2}\),\s+\d+(\.)?(\d{2})?m,\s+([Tt]rue|[Ff]alse)";
+        //static string ver4 = @"(\s+[a-zA-Z]+|[A-Za-z]+),\s+?[a-zA-Z\d]+,(\s+)?\(\d{4},(\s+)?(\d{2}),(\s+)?\d{2}\),(\s+)?\d+(\.)?(\d{2})?m,(\s+)?([Tt]rue|[Ff]alse)";
+        //static string ver5 = @"(\s+[a-zA-Z]+|[A-Za-z]+),\s+?[a-zA-Z\d]+,(\s+)?\((19|20)\d{2},(\s+)?(\d|([01]\d)),(\s+)?(\d|[0123]\d)\),(\s+)?\d+(\.)?(\d{2})?m,(\s+)?([Tt]rue|[Ff]alse)";
+
+        public string pattern = @"((\s+)?[a-zA-Z\d]+),\s+?[a-zA-Z\d]+,(\s+)?\((19|20)\d{2},(\s+)?(\d|([01]\d)),(\s+)?(\d|[0123]\d)\),(\s+)?\d+(\.)?(\d{2})?m,(\s+)?([Tt]rue|[Ff]alse)";
 
         public List<Bet> listOfBets = new List<Bet>();
-
-        public bool VerifyBet(Bet bet)
-        {
-            Regex reEngine = new Regex(pattern);
-            Match regExMatch = null;
-
-            regExMatch = reEngine.Match(bet.ToString());
-            if (regExMatch.Success)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
 
         public void WriteBetsToBinFile(List<Bet> betList)
         {
@@ -70,8 +60,10 @@ namespace BettingProgram
                         bet.Date = (list[2].Trim(' ') + ", " + list[3].Trim(' ') + ", " + list[4].Trim(' '));
                         bet.Amount = decimal.Parse(list[5].Trim(' ', 'm'));
                         bet.Verdict = bool.Parse(list[6].TrimStart(' '));
-
-                        betList.Add(bet);
+                        if (bet.VerifyBet(pattern))
+                        {
+                            betList.Add(bet);
+                        }                       
                     }
                 }
             }
@@ -105,7 +97,7 @@ namespace BettingProgram
             return resultString;
         }
 
-        public string ReportInOrder(List<Bet> betList)
+        public string ReportInOrderRecentFirst(List<Bet> betList)
         {
             string resultString = null;
 
@@ -119,6 +111,21 @@ namespace BettingProgram
 
             return resultString;
         }
+        public string ReportInOrderRecentLast(List<Bet> betList)
+        {
+            string resultString = null;
+
+            var solutionSet = from bet in betList
+                              orderby bet.getDateTime() ascending
+                              select bet;
+            foreach (var item in solutionSet)
+            {
+                resultString += item + Environment.NewLine;
+            }
+
+            return resultString;
+        }
+
 
         public string ReportBiggestWinAndLoss(List<Bet> betList)
         {
@@ -150,17 +157,24 @@ namespace BettingProgram
         {
             string resultString1 = null;
             string resultString2 = null;
+            int races = 0;
+            int wins = 0;
+            double success = 0;
 
             var solutionSet = (from bet in betList
                                select bet).Count();
             resultString1 = "Total Races = " + solutionSet + Environment.NewLine;
+            races = solutionSet;
 
             solutionSet = (from bet in betList
                            where bet.Verdict == true
                            select bet.Amount).Count();
             resultString2 = "Total Wins = " + solutionSet + Environment.NewLine;
+            wins = solutionSet;
 
-            return resultString1 + Environment.NewLine + resultString2;
+            success = Math.Round(((double)wins / (double)races) * 100, 2);
+
+            return resultString1 + Environment.NewLine + resultString2 + Environment.NewLine + "Success Rate: " + success + "%";
         }
 
         public string ReportYearlyStats(List<Bet> betList)
@@ -190,6 +204,7 @@ namespace BettingProgram
             {
                 resultString2 += Environment.NewLine + item.Year + "\t" + item.Sum;
             }
+            
 
             return resultString1 + Environment.NewLine + resultString2;
         }

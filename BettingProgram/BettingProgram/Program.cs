@@ -153,7 +153,7 @@ namespace BettingProgram
 
                             Bet temp = new Bet(raceCourse, horse, betDate, amount, verdict);
 
-                            if (tipster.VerifyBet(temp))
+                            if (temp.VerifyBet(tipster.pattern))
                             {
                                 Console.WriteLine("\nSUCESSFUL MATCH\n");
                                 tipster.listOfBets.Add(temp);
@@ -168,6 +168,8 @@ namespace BettingProgram
                             break;
 
                         case 2:
+                            Console.WriteLine("\nRetrieving historical data......\n");
+                            Thread.Sleep(4000);
                             Console.WriteLine(tipster.PrintBetList(tipster.listOfBets));
                             break;
                         case 3:
@@ -203,18 +205,43 @@ namespace BettingProgram
                         switch (reportOption)
                         {
                             case 1:
+                                Console.WriteLine("\nRetrieving Yearly Stats Report......\n");
+                                Thread.Sleep(2000);
                                 Console.WriteLine(tipster.ReportYearlyStats(tipster.listOfBets));
                                 break;
                             case 2:
+                                Console.WriteLine("\nRetrieving Most Popular Race Course Report......\n");
+                                Thread.Sleep(2000);
                                 Console.WriteLine(tipster.ReportPopularRaceCourse(tipster.listOfBets));
                                 break;
                             case 3:
-                                Console.WriteLine(tipster.ReportInOrder(tipster.listOfBets));
+                                Console.WriteLine("\n****** Order of the Report ******");
+                                Console.WriteLine("1 - Ascending");
+                                Console.WriteLine("2 - Descending");
+                                int orderOption;
+                                int.TryParse(Console.ReadLine(), out orderOption);
+                                if (orderOption == 1)
+                                {
+                                    Console.WriteLine("\nOrdering Historical Bets: Ascending......\n");
+                                    Thread.Sleep(2000);
+                                    Console.WriteLine(tipster.ReportInOrderRecentLast(tipster.listOfBets));
+                                }else if (orderOption == 2)
+                                {
+                                    Console.WriteLine("\nOrdering Historical Bets: Descending......\n");
+                                    Thread.Sleep(2000);
+                                    Console.WriteLine(tipster.ReportInOrderRecentFirst(tipster.listOfBets));
+                                }
+                                else
+                                    Console.WriteLine("\nInvalid Choice.\n");
                                 break;
                             case 4:
+                                Console.WriteLine("\nRetrieving Biggest Win + Biggest Loss Report......\n");
+                                Thread.Sleep(2000);
                                 Console.WriteLine(tipster.ReportBiggestWinAndLoss(tipster.listOfBets));
                                 break;
                             case 5:
+                                Console.WriteLine("\nRetrieving Total Races + Total Amount Won Report......\n");
+                                Thread.Sleep(2000);
                                 Console.WriteLine(tipster.ReportTotalRacesAndTotalWon(tipster.listOfBets));
                                 break;
                             case 6:

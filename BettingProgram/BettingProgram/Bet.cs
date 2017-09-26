@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace BettingProgram
@@ -41,5 +42,21 @@ namespace BettingProgram
             return new DateTime(int.Parse(dateSplit[0]), int.Parse(dateSplit[1]), int.Parse(dateSplit[2]));
 
         }
+        public bool VerifyBet(string pattern)
+        {
+            Regex reEngine = new Regex(pattern);
+            Match regExMatch = null;
+
+            regExMatch = reEngine.Match(this.ToString());
+            if (regExMatch.Success && this.getDateTime() < DateTime.Now)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
     }
 }

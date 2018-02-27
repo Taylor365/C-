@@ -1,0 +1,7 @@
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\bin\Debug\WeatherAppObserver.exe.config
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\bin\Debug\WeatherAppObserver.exe
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\bin\Debug\WeatherAppObserver.pdb
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\obj\Debug\WeatherAppObserver.csprojResolveAssemblyReference.cache
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\obj\Debug\WeatherAppObserver.csproj.CoreCompileInputs.cache
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\obj\Debug\WeatherAppObserver.exe
+C:\Users\ctaylor\source\repos\WeatherAppObserver\WeatherAppObserver\obj\Debug\WeatherAppObserver.pdb
